@@ -27,7 +27,7 @@
 - Service account
 - IAM
 
-<img src="./assets/Cloud_computing.svg">
+<img src="./Documents/assets/Cloud_computing.svg"/>
 
 
 
